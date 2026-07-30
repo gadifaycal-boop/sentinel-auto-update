@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://www.gov.uk/government/organisations/ministry-of-defence.atom",
+    "type": "entreprise",
+    "label": "Ministry of Defence (GOV.UK) — flux officiel"
+  },
+  {
+    "url": "https://www.opex360.com/feed/",
+    "type": "news",
+    "label": "Zone Militaire (Opex360)"
+  },
+  {
+    "url": "https://defence-industry.eu/feed/",
+    "type": "news",
+    "label": "Defence Industry Europe"
+  },
+  {
+    "url": "https://www.baesystems.com/en/rss/news",
+    "type": "entreprise",
+    "label": "BAE Systems — communiqués"
+  }
+]

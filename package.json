@@ -1,0 +1,12 @@
+{
+  "name": "sentinel-uk-auto-update",
+  "version": "1.0.0",
+  "description": "Actualisation automatique planifiée des données de veille défense Sentinel UK (sources -> extraction IA -> data.json).",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "update": "node scripts/update.js"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
